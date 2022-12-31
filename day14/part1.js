@@ -33,7 +33,7 @@ function createRockAraay([x, y], i, arr) {
         x += dir.x
         y += dir.y
     }
-    return 11111111111rocks
+    return rocks
 }
 
 function mapRocks(map, pos) {
